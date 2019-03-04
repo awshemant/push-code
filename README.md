@@ -1,2 +1,3 @@
-# push-code
-testing purpose
+# maven-project
+
+Simple Maven Project
